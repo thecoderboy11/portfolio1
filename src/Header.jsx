@@ -16,13 +16,13 @@ const Header = ({ scrollToFirstPage, scrollToSecondPage, scrollToThirdPage, scro
       <div className='flex justify-evenly items-center '>
 
       <div className='flex justify-center items-center '>
-        <div className='ml-0 md:ml-36 text-yellow-500 text-3xl md:text-5xl font-extrabold'>
+        <div className='ml-0 md:ml-36 text-yellow-500 text-2xl md:text-5xl font-extrabold'>
           <h1>the Coder Boy</h1>
         </div>
       </div>
 
       <div className='md:hidden ml-12'>
-          <button onClick={toggleItems} className='text-2xl text-white font-semibold px-4 py-2 bg-gray-800 rounded-lg'>
+          <button onClick={toggleItems} className='text-xl text-white font-semibold px-4 py-2 bg-gray-800 rounded-lg'>
             {showItems ? <RxCross2/> : <CiMenuBurger/>}
           </button>
       </div>
