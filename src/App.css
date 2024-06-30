@@ -1,0 +1,59 @@
+.sociallinkdiv{
+    
+    border-radius: 15px;
+    background: #6c6a6a;
+    box-shadow:  -13px -13px 26px #545353,
+             13px 13px 26px #848181;
+
+}
+
+
+.firstpage_i_am_coder_line{
+    
+    border-radius: 10px;
+    background: #6c6a6a;
+    box-shadow:  -13px -13px 26px #545353,
+             13px 13px 26px #848181;  
+
+}
+
+
+.sociallinkbutton{
+
+    background: #6c6a6a;
+    box-shadow: inset -13px -13px 26px #535252,
+            inset 13px 13px 26px #858282;
+}
+
+
+.innermorphic{
+
+    border-radius: 26px;
+    background: #6c6a6a;
+    box-shadow: inset 10px 10px 20px #414141,
+                inset -10px -10px 20px #595757;
+
+}
+
+.uppermorphic{
+
+    border-radius: 0px;
+    background: linear-gradient(45deg, #525151, #454444);
+    box-shadow:  5px -5px 10px #1f1e1e,
+                 -5px 5px 10px #7b7a7a;
+
+}
+
+.contact:hover{
+ 
+background: #373737;
+box-shadow: inset 20px 20px 25px #161616,
+            inset -20px -20px 25px #585858;
+}
+
+.contact{
+   
+background: #373737;
+box-shadow:  20px 20px 25px #161616,
+             -20px -20px 25px #585858;
+}
