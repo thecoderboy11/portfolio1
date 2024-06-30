@@ -22,7 +22,7 @@ const ThirdPage = () => {
 
       {/* portfolio cards */}
 
-      <div className="ml-4 md:ml[10%] mt-10 md:mt-28 mx-10 gap-16 flex flex-wrap justify-center items-center">
+      <div className=" mx-auto md:mx-0  mt-10 md:mt-28 gap-16 flex flex-wrap justify-center items-center">
         
         <div className=" hover:border hover:border-yellow-600 uppermorphic relative bg-[#4d4c4c] w-[350px] h-[410px] md:w-[450px] md:h-[400px] flex flex-col justify-center items-center  group">
           
