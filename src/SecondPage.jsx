@@ -18,7 +18,7 @@ const SecondPage = () => {
       </div>
       
       {/* skills cards */}
-      <div className="ml-4 md:ml-[10%] mt-10 md:mt-28 mx-10 gap-16 flex flex-wrap justify-center items-center">
+      <div className="ml-4 md:ml-[5%] md:mr[5%] md:mx-0 mx-auto mt-10 md:mt-28  gap-16 flex flex-wrap justify-center items-center">
         <div className="hover:border hover:border-yellow-600 innermorphic hover:bg-[#9f851e] relative bg-[#706d6d] w-[300px] h-[300px] flex flex-col justify-center items-center rounded-2xl">
           <div className="absolute top-4">
             <Python />
